@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme { 
+    --font-default: "Libre", "sans-serif";
+}
+
+p { 
+    @apply font-default
+}

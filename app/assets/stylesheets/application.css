@@ -8,3 +8,7 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+@font-face { 
+   font-family: "Libre";
+    src: url("/fonts/Libre.ttf");
+}
